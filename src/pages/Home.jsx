@@ -1,11 +1,11 @@
 import Title from '../component/title/Title'
 
-const Pagos = () => {
+const Home = () => {
   return (
     <div>
-      <Title title="Estamos en pagos" />
+      <Title title="Home" />
     </div>
   )
 }
 
-export default Pagos
+export default Home
